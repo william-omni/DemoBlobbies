@@ -1,0 +1,79 @@
+<svg width="1963" height="1371" viewBox="0 0 1963 1371" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="SF Seating Chart">
+<g id="SE">
+<path id="Jess" d="M228 224H355V351H228V224Z" fill="#F8E6D0"/>
+<path id="Alejandro" d="M356 224H483V351H356V224Z" fill="#F8E6D0"/>
+<path id="Elizabeth" d="M229 480H356V607H229V480Z" fill="#F8E6D0"/>
+<path id="Adrien" d="M357 480H484V607H357V480Z" fill="#F8E6D0"/>
+<path id="Milli" d="M633 224H760V351H633V224Z" fill="#F8E6D0"/>
+<path id="Isaac" d="M633 353H760V480H633V353Z" fill="#F8E6D0"/>
+<path id="Anika" d="M633 480H760V607H633V480Z" fill="#F8E6D0"/>
+<path id="Kylee" d="M228 352H355V479H228V352Z" fill="#F8E6D0"/>
+<path id="Justin" d="M356 352H483V479H356V352Z" fill="#F8E6D0"/>
+</g>
+<g id="Common Space">
+<path id="Half Wall" d="M1697.5 351.5V1247.5H1562.5V351.5H1697.5Z" fill="#FFFEFE" stroke="black"/>
+<path id="Wall/Windows 2" d="M1962.5 0.5V1370.5H1827.5V0.5H1962.5Z" fill="#FFFEFE" stroke="black"/>
+<path id="Conference Room" d="M490.5 735.5V1119.5H101.5V735.5H490.5Z" fill="#FFFEFE" stroke="black"/>
+<path id="Wall" d="M491.5 1120.5V1370.5H357.5V1120.5H491.5Z" fill="#FFFEFE" stroke="black"/>
+<path id="Booth01" d="M101.5 607.5V735.5H0.5V607.5H101.5Z" fill="#FFFEFE" stroke="black"/>
+<path id="Booth02" d="M101.5 479.5V607.5H0.5V479.5H101.5Z" fill="#FFFEFE" stroke="black"/>
+<path id="Booth03" d="M101.5 351.5V479.5H0.5V351.5H101.5Z" fill="#FFFEFE" stroke="black"/>
+<path id="Booth04" d="M101.5 223.5V351.5H0.5V223.5H101.5Z" fill="#FFFEFE" stroke="black"/>
+<path id="Booth05" d="M101.5 112.5V223.5H0.5V112.5H101.5Z" fill="#FFFEFE" stroke="black"/>
+<path id="Booth06" d="M760.5 112.5V223.5H625.5V112.5H760.5Z" fill="#FFFEFE" stroke="black"/>
+<path id="Wall/Windows 1" d="M1824.5 0.5V112.5H0.5V0.5H1824.5Z" fill="#FFFEFE" stroke="black"/>
+</g>
+<g id="BDR">
+<path id="Peter" d="M1158 1120H1285V1247H1158V1120Z" fill="#FDF3D0"/>
+<path id="Fredrick" d="M1030 1120H1157V1247H1030V1120Z" fill="#FDF3D0"/>
+<path id="Skylar" d="M1158 992H1285V1119H1158V992Z" fill="#FDF3D0"/>
+<path id="Mia Teague" d="M1030 992H1157V1119H1030V992Z" fill="#FDF3D0"/>
+<path id="Eliana" d="M1158 864H1285V991H1158V864Z" fill="#FDF3D0"/>
+<path id="Noelle" d="M1030 864H1157V991H1030V864Z" fill="#FDF3D0"/>
+<path id="Liv" d="M1158 736H1285V863H1158V736Z" fill="#FDF3D0"/>
+<path id="Sean" d="M1030 736H1157V863H1030V736Z" fill="#FDF3D0"/>
+<path id="Jacob" d="M1031 1247H1285V1338H1031V1247Z" fill="#FDF3D0"/>
+<path id="Ross" d="M1435 352H1562V479H1435V352Z" fill="#FDF3D0"/>
+<path id="Stanley" d="M1435 992H1562V1119H1435V992Z" fill="#FDF3D0"/>
+<path id="May Dylan" d="M1698 1120H1825V1247H1698V1120Z" fill="#FDF3D0"/>
+<path id="Mia Kragh" d="M1435 864H1562V991H1435V864Z" fill="#FDF3D0"/>
+<path id="Bella" d="M1698 992H1825V1119H1698V992Z" fill="#FDF3D0"/>
+<path id="Mckenna" d="M1435 736H1562V863H1435V736Z" fill="#FDF3D0"/>
+<path id="Paige" d="M1698 864H1825V991H1698V864Z" fill="#FDF3D0"/>
+<path id="Kathryn" d="M1435 608H1562V735H1435V608Z" fill="#FDF3D0"/>
+<path id="Ivana" d="M1435 1120H1562V1247H1435V1120Z" fill="#FDF3D0"/>
+<path id="Devon" d="M1435 480H1562V607H1435V480Z" fill="#FDF3D0"/>
+</g>
+<g id="Product Marketing">
+<path id="Max P" d="M1030 224H1157V351H1030V224Z" fill="#DCE9D5"/>
+<path id="Jonathan" d="M1158 480H1285V607H1158V480Z" fill="#DCE9D5"/>
+<path id="Karly" d="M1030 480H1157V607H1030V480Z" fill="#DCE9D5"/>
+<path id="Kierra" d="M1158 352H1285V479H1158V352Z" fill="#DCE9D5"/>
+<path id="Conner" d="M1030 352H1157V479H1030V352Z" fill="#DCE9D5"/>
+</g>
+<g id="PE">
+<path id="Sam" d="M634 1248H888V1339H634V1248Z" fill="#E6D2DC"/>
+<path id="James" d="M633 1120H760V1247H633V1120Z" fill="#E6D2DC"/>
+<path id="Jake" d="M761 992H888V1119H761V992Z" fill="#E6D2DC"/>
+<path id="Keegan" d="M633 992H760V1119H633V992Z" fill="#E6D2DC"/>
+</g>
+<g id="Ops">
+<path id="Keerthi" d="M761 736H888V863H761V736Z" fill="#D9D9D9"/>
+</g>
+<g id="Product">
+<path id="Jack" d="M761 1120H888V1247H761V1120Z" fill="#D3DFE2"/>
+<path id="Jonny" d="M633 736H760V863H633V736Z" fill="#D3DFE2"/>
+<path id="Alisa" d="M633 864H760V991H633V864Z" fill="#D3DFE2"/>
+</g>
+<g id="Sales">
+<path id="Kimberly" d="M761 864H888V991H761V864Z" fill="#EECDCD"/>
+<path id="Morgan V" d="M761 479H888V606H761V479Z" fill="#EECDCD"/>
+<path id="GB" d="M761 353H888V480H761V353Z" fill="#EECDCD"/>
+<path id="Max S" d="M1158 224H1285V351H1158V224Z" fill="#EECDCD"/>
+</g>
+<g id="Open">
+<path id="OPEN" d="M761 224H888V351H761V224Z" fill="#FFFF54"/>
+</g>
+</g>
+</svg>
